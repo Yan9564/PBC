@@ -1,6 +1,8 @@
-# PAC
+# PBC
 
 This is the code for paper xxx
 
 ## Code
-- PAC
+- PBC
+
+## learning materials on PAC
